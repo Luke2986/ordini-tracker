@@ -2,6 +2,8 @@
 
 Prototipo non richiesto, costruito di mia iniziativa durante una candidatura per mostrare come affronterei un problema di go-to-market: mappare le convenzioni di una legaltech con i 139 Ordini degli Avvocati italiani usando solo fonti pubbliche. Non è affiliato all'azienda né approvato da lei.
 
+**Live:** https://ordini-tracker.vercel.app
+
 ## Dati dimostrativi
 
 La versione pubblica usa **dati dimostrativi**. L'elenco degli Ordini (CNF) e il numero di iscritti (Cassa Forense 2023, disponibile per 34 Ordini) sono reali; stati, sconti e date delle convenzioni sono inventati.
