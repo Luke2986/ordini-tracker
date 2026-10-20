@@ -1,0 +1,2514 @@
+{
+  "metadata": {
+    "last_updated": "2026-10-20",
+    "total_ordini": 139,
+    "verified_ordini": 52,
+    "active_conventions": 27,
+    "data_source": "Elenco Ordini: CNF. Iscritti: Cassa Forense 2023 (34 Ordini su 139). Stati, sconti e date delle convenzioni sono dimostrativi",
+    "notes": "'Non verificata' = non ancora cercata. 'Non trovata' = cercata, nessuna traccia pubblica"
+  },
+  "ordini": [
+    {
+      "id": "ordine_avezzano",
+      "name": "Ordine degli Avvocati di Avezzano",
+      "city": "Avezzano",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_chieti",
+      "name": "Ordine degli Avvocati di Chieti",
+      "city": "Chieti",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_laquila",
+      "name": "Ordine degli Avvocati di L'Aquila",
+      "city": "L'Aquila",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_lanciano",
+      "name": "Ordine degli Avvocati di Lanciano",
+      "city": "Lanciano",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_pescara",
+      "name": "Ordine degli Avvocati di Pescara",
+      "city": "Pescara",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": 1642,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_sulmona",
+      "name": "Ordine degli Avvocati di Sulmona",
+      "city": "Sulmona",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_teramo",
+      "name": "Ordine degli Avvocati di Teramo",
+      "city": "Teramo",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-03-13",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_vasto",
+      "name": "Ordine degli Avvocati di Vasto",
+      "city": "Vasto",
+      "region": "Abruzzo",
+      "region_code": "ABR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_lagonegro",
+      "name": "Ordine degli Avvocati di Lagonegro",
+      "city": "Lagonegro",
+      "region": "Basilicata",
+      "region_code": "BAS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_matera",
+      "name": "Ordine degli Avvocati di Matera",
+      "city": "Matera",
+      "region": "Basilicata",
+      "region_code": "BAS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-01-03",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_potenza",
+      "name": "Ordine degli Avvocati di Potenza",
+      "city": "Potenza",
+      "region": "Basilicata",
+      "region_code": "BAS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_castrovillari",
+      "name": "Ordine degli Avvocati di Castrovillari",
+      "city": "Castrovillari",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_catanzaro",
+      "name": "Ordine degli Avvocati di Catanzaro",
+      "city": "Catanzaro",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": 1505,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-02-19",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_cosenza",
+      "name": "Ordine degli Avvocati di Cosenza",
+      "city": "Cosenza",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": 2307,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_crotone",
+      "name": "Ordine degli Avvocati di Crotone",
+      "city": "Crotone",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "expired",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2025-02-01",
+        "expiry_date": "2025-11-31",
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_lamezia_terme",
+      "name": "Ordine degli Avvocati di Lamezia Terme",
+      "city": "Lamezia Terme",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-03-20",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_locri",
+      "name": "Ordine degli Avvocati di Locri",
+      "city": "Locri",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "expired",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2025-02-19",
+        "expiry_date": "2025-12-31",
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_palmi",
+      "name": "Ordine degli Avvocati di Palmi",
+      "city": "Palmi",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-05-05",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_paola",
+      "name": "Ordine degli Avvocati di Paola",
+      "city": "Paola",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_reggio_calabria",
+      "name": "Ordine degli Avvocati di Reggio Calabria",
+      "city": "Reggio Calabria",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": 1931,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-04-06",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_vibo_valentia",
+      "name": "Ordine degli Avvocati di Vibo Valentia",
+      "city": "Vibo Valentia",
+      "region": "Calabria",
+      "region_code": "CAL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_avellino",
+      "name": "Ordine degli Avvocati di Avellino",
+      "city": "Avellino",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-06-05",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_benevento",
+      "name": "Ordine degli Avvocati di Benevento",
+      "city": "Benevento",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2026-02-27",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_napoli",
+      "name": "Ordine degli Avvocati di Napoli",
+      "city": "Napoli",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": 11547,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "expired",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2025-02-24",
+        "expiry_date": "2025-10-31",
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_napoli_nord",
+      "name": "Ordine degli Avvocati di Napoli Nord",
+      "city": "Napoli Nord",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_nocera_inferiore",
+      "name": "Ordine degli Avvocati di Nocera Inferiore",
+      "city": "Nocera Inferiore",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_nola",
+      "name": "Ordine degli Avvocati di Nola",
+      "city": "Nola",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_salerno",
+      "name": "Ordine degli Avvocati di Salerno",
+      "city": "Salerno",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": 3894,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_santa_maria_capua_vetere",
+      "name": "Ordine degli Avvocati di Santa Maria Capua Vetere",
+      "city": "Santa Maria Capua Vetere",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": 3283,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "active",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2026-06-21",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_torre_annunziata",
+      "name": "Ordine degli Avvocati di Torre Annunziata",
+      "city": "Torre Annunziata",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_vallo_della_lucania",
+      "name": "Ordine degli Avvocati di Vallo della Lucania",
+      "city": "Vallo della Lucania",
+      "region": "Campania",
+      "region_code": "CAM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_bologna",
+      "name": "Ordine degli Avvocati di Bologna",
+      "city": "Bologna",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": 4883,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-05-07",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_ferrara",
+      "name": "Ordine degli Avvocati di Ferrara",
+      "city": "Ferrara",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_forli_cesena",
+      "name": "Ordine degli Avvocati di Forlì Cesena",
+      "city": "Forlì Cesena",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 25,
+        "source_url": null,
+        "detected_date": "2026-04-16",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_modena",
+      "name": "Ordine degli Avvocati di Modena",
+      "city": "Modena",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2026-01-14",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_parma",
+      "name": "Ordine degli Avvocati di Parma",
+      "city": "Parma",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_piacenza",
+      "name": "Ordine degli Avvocati di Piacenza",
+      "city": "Piacenza",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_ravenna",
+      "name": "Ordine degli Avvocati di Ravenna",
+      "city": "Ravenna",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_reggio_emilia",
+      "name": "Ordine degli Avvocati di Reggio Emilia",
+      "city": "Reggio Emilia",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-01-04",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_rimini",
+      "name": "Ordine degli Avvocati di Rimini",
+      "city": "Rimini",
+      "region": "Emilia-Romagna",
+      "region_code": "EMR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-05-09",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_gorizia",
+      "name": "Ordine degli Avvocati di Gorizia",
+      "city": "Gorizia",
+      "region": "Friuli Venezia Giulia",
+      "region_code": "FVG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_pordenone",
+      "name": "Ordine degli Avvocati di Pordenone",
+      "city": "Pordenone",
+      "region": "Friuli Venezia Giulia",
+      "region_code": "FVG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_trieste",
+      "name": "Ordine degli Avvocati di Trieste",
+      "city": "Trieste",
+      "region": "Friuli Venezia Giulia",
+      "region_code": "FVG",
+      "country": "IT",
+      "registered_lawyers": 579,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-02-24",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_udine",
+      "name": "Ordine degli Avvocati di Udine",
+      "city": "Udine",
+      "region": "Friuli Venezia Giulia",
+      "region_code": "FVG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-06-13",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_cassino",
+      "name": "Ordine degli Avvocati di Cassino",
+      "city": "Cassino",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2026-04-27",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_civitavecchia",
+      "name": "Ordine degli Avvocati di Civitavecchia",
+      "city": "Civitavecchia",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_frosinone",
+      "name": "Ordine degli Avvocati di Frosinone",
+      "city": "Frosinone",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": 1127,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-05-16",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_latina",
+      "name": "Ordine degli Avvocati di Latina",
+      "city": "Latina",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_rieti",
+      "name": "Ordine degli Avvocati di Rieti",
+      "city": "Rieti",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_roma",
+      "name": "Ordine degli Avvocati di Roma",
+      "city": "Roma",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": 25089,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_tivoli",
+      "name": "Ordine degli Avvocati di Tivoli",
+      "city": "Tivoli",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_velletri",
+      "name": "Ordine degli Avvocati di Velletri",
+      "city": "Velletri",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_viterbo",
+      "name": "Ordine degli Avvocati di Viterbo",
+      "city": "Viterbo",
+      "region": "Lazio",
+      "region_code": "LAZ",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_genova",
+      "name": "Ordine degli Avvocati di Genova",
+      "city": "Genova",
+      "region": "Liguria",
+      "region_code": "LIG",
+      "country": "IT",
+      "registered_lawyers": 3778,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "active",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2026-05-06",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_imperia",
+      "name": "Ordine degli Avvocati di Imperia",
+      "city": "Imperia",
+      "region": "Liguria",
+      "region_code": "LIG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-06-03",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_la_spezia",
+      "name": "Ordine degli Avvocati di La Spezia",
+      "city": "La Spezia",
+      "region": "Liguria",
+      "region_code": "LIG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2026-02-16",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_savona",
+      "name": "Ordine degli Avvocati di Savona",
+      "city": "Savona",
+      "region": "Liguria",
+      "region_code": "LIG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_bergamo",
+      "name": "Ordine degli Avvocati di Bergamo",
+      "city": "Bergamo",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_brescia",
+      "name": "Ordine degli Avvocati di Brescia",
+      "city": "Brescia",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": 2664,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_busto_arsizio",
+      "name": "Ordine degli Avvocati di Busto Arsizio",
+      "city": "Busto Arsizio",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_como",
+      "name": "Ordine degli Avvocati di Como",
+      "city": "Como",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2026-06-28",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_cremona",
+      "name": "Ordine degli Avvocati di Cremona",
+      "city": "Cremona",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-05-20",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_lecco",
+      "name": "Ordine degli Avvocati di Lecco",
+      "city": "Lecco",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-03-07",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_lodi",
+      "name": "Ordine degli Avvocati di Lodi",
+      "city": "Lodi",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": 438,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_mantova",
+      "name": "Ordine degli Avvocati di Mantova",
+      "city": "Mantova",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-02-24",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_milano",
+      "name": "Ordine degli Avvocati di Milano",
+      "city": "Milano",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": 22185,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_monza",
+      "name": "Ordine degli Avvocati di Monza",
+      "city": "Monza",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": 1923,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_pavia",
+      "name": "Ordine degli Avvocati di Pavia",
+      "city": "Pavia",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_sondrio",
+      "name": "Ordine degli Avvocati di Sondrio",
+      "city": "Sondrio",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_varese",
+      "name": "Ordine degli Avvocati di Varese",
+      "city": "Varese",
+      "region": "Lombardia",
+      "region_code": "LOM",
+      "country": "IT",
+      "registered_lawyers": 851,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_ancona",
+      "name": "Ordine degli Avvocati di Ancona",
+      "city": "Ancona",
+      "region": "Marche",
+      "region_code": "MAR",
+      "country": "IT",
+      "registered_lawyers": 1445,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_ascoli_piceno",
+      "name": "Ordine degli Avvocati di Ascoli Piceno",
+      "city": "Ascoli Piceno",
+      "region": "Marche",
+      "region_code": "MAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_fermo",
+      "name": "Ordine degli Avvocati di Fermo",
+      "city": "Fermo",
+      "region": "Marche",
+      "region_code": "MAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_macerata",
+      "name": "Ordine degli Avvocati di Macerata",
+      "city": "Macerata",
+      "region": "Marche",
+      "region_code": "MAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_pesaro",
+      "name": "Ordine degli Avvocati di Pesaro",
+      "city": "Pesaro",
+      "region": "Marche",
+      "region_code": "MAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_urbino",
+      "name": "Ordine degli Avvocati di Urbino",
+      "city": "Urbino",
+      "region": "Marche",
+      "region_code": "MAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_campobasso",
+      "name": "Ordine degli Avvocati di Campobasso",
+      "city": "Campobasso",
+      "region": "Molise",
+      "region_code": "MOL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_isernia",
+      "name": "Ordine degli Avvocati di Isernia",
+      "city": "Isernia",
+      "region": "Molise",
+      "region_code": "MOL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_larino",
+      "name": "Ordine degli Avvocati di Larino",
+      "city": "Larino",
+      "region": "Molise",
+      "region_code": "MOL",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_alessandria",
+      "name": "Ordine degli Avvocati di Alessandria",
+      "city": "Alessandria",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_asti",
+      "name": "Ordine degli Avvocati di Asti",
+      "city": "Asti",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": 607,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-01-09",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_biella",
+      "name": "Ordine degli Avvocati di Biella",
+      "city": "Biella",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_cuneo",
+      "name": "Ordine degli Avvocati di Cuneo",
+      "city": "Cuneo",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2026-04-08",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_ivrea",
+      "name": "Ordine degli Avvocati di Ivrea",
+      "city": "Ivrea",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_novara",
+      "name": "Ordine degli Avvocati di Novara",
+      "city": "Novara",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_torino",
+      "name": "Ordine degli Avvocati di Torino",
+      "city": "Torino",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": 6065,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_verbania",
+      "name": "Ordine degli Avvocati di Verbania",
+      "city": "Verbania",
+      "region": "Piemonte",
+      "region_code": "PIE",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_bari",
+      "name": "Ordine degli Avvocati di Bari",
+      "city": "Bari",
+      "region": "Puglia",
+      "region_code": "PUG",
+      "country": "IT",
+      "registered_lawyers": 6088,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-01-06",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_brindisi",
+      "name": "Ordine degli Avvocati di Brindisi",
+      "city": "Brindisi",
+      "region": "Puglia",
+      "region_code": "PUG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_foggia",
+      "name": "Ordine degli Avvocati di Foggia",
+      "city": "Foggia",
+      "region": "Puglia",
+      "region_code": "PUG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 15,
+        "source_url": null,
+        "detected_date": "2026-03-17",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_lecce",
+      "name": "Ordine degli Avvocati di Lecce",
+      "city": "Lecce",
+      "region": "Puglia",
+      "region_code": "PUG",
+      "country": "IT",
+      "registered_lawyers": 4136,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_taranto",
+      "name": "Ordine degli Avvocati di Taranto",
+      "city": "Taranto",
+      "region": "Puglia",
+      "region_code": "PUG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2026-02-03",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_trani",
+      "name": "Ordine degli Avvocati di Trani",
+      "city": "Trani",
+      "region": "Puglia",
+      "region_code": "PUG",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_cagliari",
+      "name": "Ordine degli Avvocati di Cagliari",
+      "city": "Cagliari",
+      "region": "Sardegna",
+      "region_code": "SAR",
+      "country": "IT",
+      "registered_lawyers": 2521,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-03-05",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_lanusei",
+      "name": "Ordine degli Avvocati di Lanusei",
+      "city": "Lanusei",
+      "region": "Sardegna",
+      "region_code": "SAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_nuoro",
+      "name": "Ordine degli Avvocati di Nuoro",
+      "city": "Nuoro",
+      "region": "Sardegna",
+      "region_code": "SAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_oristano",
+      "name": "Ordine degli Avvocati di Oristano",
+      "city": "Oristano",
+      "region": "Sardegna",
+      "region_code": "SAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2026-03-22",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_sassari",
+      "name": "Ordine degli Avvocati di Sassari",
+      "city": "Sassari",
+      "region": "Sardegna",
+      "region_code": "SAR",
+      "country": "IT",
+      "registered_lawyers": 1078,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "active",
+        "discount_pct": 25,
+        "source_url": null,
+        "detected_date": "2026-06-17",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_tempio_pausania",
+      "name": "Ordine degli Avvocati di Tempio Pausania",
+      "city": "Tempio Pausania",
+      "region": "Sardegna",
+      "region_code": "SAR",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_agrigento",
+      "name": "Ordine degli Avvocati di Agrigento",
+      "city": "Agrigento",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_barcellona_pozzo_di_gotto",
+      "name": "Ordine degli Avvocati di Barcellona Pozzo di Gotto",
+      "city": "Barcellona Pozzo di Gotto",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_caltagirone",
+      "name": "Ordine degli Avvocati di Caltagirone",
+      "city": "Caltagirone",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2026-02-19",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_caltanissetta",
+      "name": "Ordine degli Avvocati di Caltanissetta",
+      "city": "Caltanissetta",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_catania",
+      "name": "Ordine degli Avvocati di Catania",
+      "city": "Catania",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": 5196,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_enna",
+      "name": "Ordine degli Avvocati di Enna",
+      "city": "Enna",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_gela",
+      "name": "Ordine degli Avvocati di Gela",
+      "city": "Gela",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-01-01",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_marsala",
+      "name": "Ordine degli Avvocati di Marsala",
+      "city": "Marsala",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_messina",
+      "name": "Ordine degli Avvocati di Messina",
+      "city": "Messina",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": 2397,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-04-12",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_palermo",
+      "name": "Ordine degli Avvocati di Palermo",
+      "city": "Palermo",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": 4745,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_patti",
+      "name": "Ordine degli Avvocati di Patti",
+      "city": "Patti",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 25,
+        "source_url": null,
+        "detected_date": "2026-03-02",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_ragusa",
+      "name": "Ordine degli Avvocati di Ragusa",
+      "city": "Ragusa",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-05-21",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_sciacca",
+      "name": "Ordine degli Avvocati di Sciacca",
+      "city": "Sciacca",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-04-03",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_siracusa",
+      "name": "Ordine degli Avvocati di Siracusa",
+      "city": "Siracusa",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_termini_imerese",
+      "name": "Ordine degli Avvocati di Termini Imerese",
+      "city": "Termini Imerese",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_trapani",
+      "name": "Ordine degli Avvocati di Trapani",
+      "city": "Trapani",
+      "region": "Sicilia",
+      "region_code": "SIC",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_arezzo",
+      "name": "Ordine degli Avvocati di Arezzo",
+      "city": "Arezzo",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": 867,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_firenze",
+      "name": "Ordine degli Avvocati di Firenze",
+      "city": "Firenze",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": 4335,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "active",
+        "discount_pct": 25,
+        "source_url": null,
+        "detected_date": "2026-03-11",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_grosseto",
+      "name": "Ordine degli Avvocati di Grosseto",
+      "city": "Grosseto",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-02-03",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_livorno",
+      "name": "Ordine degli Avvocati di Livorno",
+      "city": "Livorno",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_lucca",
+      "name": "Ordine degli Avvocati di Lucca",
+      "city": "Lucca",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_massa_carrara",
+      "name": "Ordine degli Avvocati di Massa Carrara",
+      "city": "Massa Carrara",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_pisa",
+      "name": "Ordine degli Avvocati di Pisa",
+      "city": "Pisa",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_pistoia",
+      "name": "Ordine degli Avvocati di Pistoia",
+      "city": "Pistoia",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-01-15",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_prato",
+      "name": "Ordine degli Avvocati di Prato",
+      "city": "Prato",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_siena",
+      "name": "Ordine degli Avvocati di Siena",
+      "city": "Siena",
+      "region": "Toscana",
+      "region_code": "TOS",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "expired",
+        "discount_pct": 20,
+        "source_url": null,
+        "detected_date": "2025-03-24",
+        "expiry_date": "2025-09-31",
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_bolzano",
+      "name": "Ordine degli Avvocati di Bolzano",
+      "city": "Bolzano",
+      "region": "Trentino-Alto Adige",
+      "region_code": "TAA",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-06-24",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_rovereto",
+      "name": "Ordine degli Avvocati di Rovereto",
+      "city": "Rovereto",
+      "region": "Trentino-Alto Adige",
+      "region_code": "TAA",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 25,
+        "source_url": null,
+        "detected_date": "2026-02-26",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_trento",
+      "name": "Ordine degli Avvocati di Trento",
+      "city": "Trento",
+      "region": "Trentino-Alto Adige",
+      "region_code": "TAA",
+      "country": "IT",
+      "registered_lawyers": 752,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-03-12",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_perugia",
+      "name": "Ordine degli Avvocati di Perugia",
+      "city": "Perugia",
+      "region": "Umbria",
+      "region_code": "UMB",
+      "country": "IT",
+      "registered_lawyers": 1995,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_spoleto",
+      "name": "Ordine degli Avvocati di Spoleto",
+      "city": "Spoleto",
+      "region": "Umbria",
+      "region_code": "UMB",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_terni",
+      "name": "Ordine degli Avvocati di Terni",
+      "city": "Terni",
+      "region": "Umbria",
+      "region_code": "UMB",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_aosta",
+      "name": "Ordine degli Avvocati di Aosta",
+      "city": "Aosta",
+      "region": "Valle d'Aosta",
+      "region_code": "VDA",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_belluno",
+      "name": "Ordine degli Avvocati di Belluno",
+      "city": "Belluno",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": 304,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_padova",
+      "name": "Ordine degli Avvocati di Padova",
+      "city": "Padova",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": 3053,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_rovigo",
+      "name": "Ordine degli Avvocati di Rovigo",
+      "city": "Rovigo",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-06-16",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_treviso",
+      "name": "Ordine degli Avvocati di Treviso",
+      "city": "Treviso",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "active",
+        "discount_pct": 10,
+        "source_url": null,
+        "detected_date": "2026-04-26",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_venezia",
+      "name": "Ordine degli Avvocati di Venezia",
+      "city": "Venezia",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "ordine_verona",
+      "name": "Ordine degli Avvocati di Verona",
+      "city": "Verona",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": 2702,
+      "registered_lawyers_source": "Cassa Forense, 'I numeri dell'avvocatura 2023', al 31/12/2023",
+      "convention": {
+        "status": "not_found",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": "2026-01-28",
+        "expiry_date": null,
+        "notes": "Dato dimostrativo"
+      }
+    },
+    {
+      "id": "ordine_vicenza",
+      "name": "Ordine degli Avvocati di Vicenza",
+      "city": "Vicenza",
+      "region": "Veneto",
+      "region_code": "VEN",
+      "country": "IT",
+      "registered_lawyers": null,
+      "registered_lawyers_source": null,
+      "convention": {
+        "status": "not_verified",
+        "discount_pct": null,
+        "source_url": null,
+        "detected_date": null,
+        "expiry_date": null,
+        "notes": ""
+      }
+    }
+  ]
+}
