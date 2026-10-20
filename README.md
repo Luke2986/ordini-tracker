@@ -1,6 +1,6 @@
 # Ordini Tracker
 
-Prototipo non richiesto, costruito di mia iniziativa durante una candidatura per mostrare come affronterei un problema di go-to-market: mappare le convenzioni di una legaltech con i 139 Ordini degli Avvocati italiani usando solo fonti pubbliche. Non è affiliato all'azienda né approvato da lei.
+Prototipo non richiesto, costruito di mia iniziativa durante una candidatura in una legaltech italiana. È pensato come strumento interno per il team commerciale (SDR/BDR): una mappa delle convenzioni dell'azienda con i 139 Ordini degli Avvocati italiani, costruita solo con fonti pubbliche. Non è affiliato all'azienda né approvato da lei.
 
 **Live:** https://ordini-tracker.vercel.app
 
